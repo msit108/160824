@@ -6,7 +6,7 @@ Lab: 使用 Google Map 服務
 
 
 1.2 在 head 區塊引用 Google Map API 的 JavaScript，如下:
-<script src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyA6gcpi9-EnxyDjXeWzkU9DHpyB5iyEUvY"></script>
 
 
 1.3 在 data-role="content" 的 div 置入下列元素:
